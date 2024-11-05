@@ -4,7 +4,9 @@ test3
 
 develop1
 develop2
+feature/new1
+feature/new2
+
 develop3
 develop4
 develop5
-
