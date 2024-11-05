@@ -7,3 +7,4 @@ develop2
 
 
 feature/new1
+feature/new2
